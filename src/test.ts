@@ -10,5 +10,4 @@ const multi = (a: number, b: number): number => {
 
 console.log(add(1, 3))
 console.log(multi(4, 2))
-
 Observable.of('HelloWorld').subscribe(text => console.log(text))
